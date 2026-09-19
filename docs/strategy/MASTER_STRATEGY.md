@@ -328,6 +328,19 @@ Current exploration is inspired by public tourism / overtourism information port
 
 But the SuzuPay portal should go further by connecting discovery to real merchant and payment actions.
 
+**Visitor surface vs operator surface (CURRENT)**
+
+- Visitor-facing portal (`portal/`): English-first. Show quieter hours, side streets, and quests — not subsidy language, DMO lists, or MLIT case tables.
+- Operator / public-sector surface (`docs/strategy/`): keep overtourism cases, subsidy fit, and regional OS thesis.
+
+Working synthesis for product behavior:
+
+**Miyajima-style incentives to move people + Otaru-style flow data + Kyoto-style resident-facing narrative**
+
+Detailed case split (proven outcomes vs FY2026 newly selected proposals): [`overtourism-cases.md`](overtourism-cases.md).  
+Three-layer product thesis: [`portal-thesis.md`](portal-thesis.md).  
+Inbound presentation prototype: [`../../portal/index.html`](../../portal/index.html).
+
 ## 5.3 Portal content unit
 
 **PROPOSED**
@@ -903,6 +916,17 @@ The output should be a living **regional opportunity pipeline**, not a one-time 
 
 Public-sector portal patterns such as overtourism countermeasure sites are strategically useful because they show how policy information, regional examples, and implementation guidance can be structured.
 
+Read them in two buckets (see [`overtourism-cases.md`](overtourism-cases.md)):
+
+1. **Proven / evaluated** — e.g. Miyajima stamp dispersal, Kyoto traffic + citizen portal, Otaru flow+logistics, Biei farmland conflict, Kamakura failed photo-spot experiment
+2. **FY2026 newly selected** — ambitious proposals (baggage handoff, pre-demand control, night dispersal, etc.) that are not yet outcome-proven
+
+The capability stack that matters for SuzuPay:
+
+```text
+show crowding → predict → recommend another place/time → change behavior with points/experience/transport/logistics → return value visibility to residents
+```
+
 SuzuPay should borrow the clarity and credibility of those sites, then add layers that ordinary public information portals often lack:
 
 - actionable merchant / place discovery
@@ -914,7 +938,7 @@ SuzuPay should borrow the clarity and credibility of those sites, then add layer
 - measurable outcomes
 - automated maintenance
 
-The goal is therefore **not to clone a government portal**, but to turn the same information architecture into an operational product.
+The goal is therefore **not to clone a government portal**, but to turn the same information architecture into an operational product. The inbound prototype in `portal/` is the visitor-facing expression of that rule.
 
 ---
 
