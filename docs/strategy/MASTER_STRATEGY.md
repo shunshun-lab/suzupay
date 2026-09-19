@@ -816,6 +816,255 @@ Alternative shorter expression:
 
 ---
 
+
+# 19. Portal network / site-factory strategy
+
+## 19.1 From one portal to a distributed regional network
+
+**CURRENT / PROPOSED**
+
+The portal strategy should not stop at building one SuzuPay tourism website.
+
+The larger opportunity is to build a **network of narrowly focused regional portals** around places where there is already a strong source of value, identity, demand, or under-discovered local activity.
+
+Examples of "value sources" include:
+
+- distinctive local industries
+- pilgrimage / cultural routes
+- traditional communities
+- special local products
+- remote-work / digital-nomad suitability
+- unique experiences
+- under-visited destinations near overcrowded hotspots
+- regional communities with strong identity but weak digital discovery
+- public programs seeking relationship population / repeat visitors
+- places where inbound demand exists but information is fragmented
+
+The strategy is:
+
+**Find value source → structure regional knowledge → launch focused portal → acquire visitors → connect local merchants / experiences → attach SuzuPay actions → accumulate regional data → replicate**
+
+This changes the portal from "content marketing" into **regional distribution infrastructure**.
+
+## 19.2 Site portfolio model
+
+**PROPOSED**
+
+Instead of forcing every region into one giant national site, SuzuPay can operate a portfolio of focused sites with shared infrastructure.
+
+A useful model is:
+
+- one shared data model
+- one shared design / component system
+- one shared analytics layer
+- one shared merchant / offer model
+- one shared SuzuPay action layer
+- many region- or theme-specific frontends
+
+This makes it possible to optimize each site for its target audience while keeping operations centralized.
+
+Potential themes include:
+
+- digital nomad Japan
+- relationship-population / repeat-visitor programs
+- pilgrimage / cultural travel
+- local food / producer discovery
+- under-visited destinations
+- workcation
+- regional community participation
+- specific subsidy / public-program use cases
+
+The "furusato resident"-style concept is useful as a reference for how a focused user need can become the front door to a larger regional relationship.
+
+## 19.3 Discovery of candidate regions
+
+**CURRENT / PROPOSED**
+
+AI research systems such as Jev or equivalent research agents should help continuously generate and rank candidate regions.
+
+Candidate selection should consider:
+
+- uniqueness of the underlying value source
+- inbound / domestic demand potential
+- availability and quality of source information
+- local merchant density
+- local operating partner availability
+- DMO / municipality motivation
+- overtourism / circulation need
+- public-funding fit
+- SuzuPay payment / incentive fit
+- repeatability into other regions
+
+The output should be a living **regional opportunity pipeline**, not a one-time research report.
+
+## 19.4 Reference pattern: overtourism / public-information portals
+
+**CURRENT**
+
+Public-sector portal patterns such as overtourism countermeasure sites are strategically useful because they show how policy information, regional examples, and implementation guidance can be structured.
+
+SuzuPay should borrow the clarity and credibility of those sites, then add layers that ordinary public information portals often lack:
+
+- actionable merchant / place discovery
+- live regional data
+- incentives
+- payments
+- visitor circulation
+- operator dashboards
+- measurable outcomes
+- automated maintenance
+
+The goal is therefore **not to clone a government portal**, but to turn the same information architecture into an operational product.
+
+---
+
+# 20. AI-native regional operations strategy
+
+## 20.1 LocalManus as a site-production worker
+
+**CURRENT / PROPOSED**
+
+A dedicated LocalManus-style worker should be designed specifically for regional portal creation.
+
+Its job is not generic coding. It should execute a repeatable regional production workflow:
+
+1. receive region / theme brief
+2. collect official and reliable sources
+3. identify places, merchants, programs, events, routes, and constraints
+4. normalize data into the shared SuzuPay regional schema
+5. generate information architecture
+6. generate copy and page structure
+7. assemble the portal from shared components
+8. run quality / link / freshness checks
+9. create preview deployment
+10. request human review for uncertain claims
+11. publish
+12. monitor and refresh over time
+
+This worker should be optimized for **many-sites operation**, not one-off website production.
+
+## 20.2 OpenClaw as the orchestration layer
+
+**PROPOSED**
+
+OpenClaw can sit above specialized workers and coordinate:
+
+- regional research
+- market / public-program research
+- portal generation
+- structured-data updates
+- GitHub branch / PR workflows
+- preview deployments
+- regression checks
+- content freshness monitoring
+- analytics review
+- issue creation
+- human approval points
+
+The target architecture is:
+
+**SuzuPay strategic knowledge → OpenClaw orchestrator → specialized research / site / QA workers → GitHub / deployment / analytics**
+
+This creates a durable operating system for scaling regional implementations without scaling headcount linearly.
+
+## 20.3 Human-in-the-loop boundary
+
+**CURRENT PRINCIPLE**
+
+AI should automate collection, structuring, generation, and monitoring, while humans retain control of:
+
+- strategic claims
+- government / subsidy submissions
+- commercial terms
+- regulatory statements
+- partner commitments
+- sensitive regional representation
+- publication of low-confidence information
+
+Every generated fact should ideally retain:
+
+- source
+- checked date
+- confidence
+- freshness
+- region
+- entity
+- human override state
+
+---
+
+# 21. Strategic operating model
+
+## 21.1 One core, multiple entry points
+
+**CURRENT**
+
+SuzuPay can have multiple user-facing entry points without becoming multiple unrelated businesses.
+
+The core remains:
+
+**regional knowledge + merchant network + participation / incentive + payment + data**
+
+Different entry points can include:
+
+- tourism portal
+- nomad portal
+- relationship-population portal
+- municipality campaign
+- LINE mini experience
+- merchant discovery
+- payment QR
+- AI travel assistant
+
+Each entry point should eventually write into or read from the same regional operating layer.
+
+## 21.2 Build once, deploy regionally
+
+**CURRENT / PROPOSED**
+
+The strategic leverage comes from separating:
+
+**Shared core**
+- identity
+- merchant model
+- place / event / route model
+- payment
+- incentives
+- campaign engine
+- analytics
+- content provenance
+- AI operations
+- shared UI components
+
+from:
+
+**Regional configuration**
+- content
+- language
+- merchant set
+- campaigns
+- local rules
+- local partners
+- branding
+- portal domain
+
+This is the basis for turning custom regional projects into a scalable platform business.
+
+## 21.3 Strategic sequence
+
+The preferred sequence is:
+
+**1. Win a real regional use case**  
+**2. Turn the implementation into reusable primitives**  
+**3. Automate the expensive manual operations with AI**  
+**4. Launch adjacent portals / regions from the same core**  
+**5. Connect discovery to payment and measurable circulation**  
+**6. Build a cross-region network**
+
+This sequence is important: SuzuPay should avoid building a huge abstract platform before one or two regional operating models are proven.
+
+---
+
 # 19. Repository knowledge policy
 
 This repository should serve as the durable strategic memory for SuzuPay.
