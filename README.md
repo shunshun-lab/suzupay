@@ -26,7 +26,7 @@ Mac ローカルの変更を **毎日 03:00（JST）** に commit & push（睡�
 - 手動: `scripts/nightly-github-sync.sh --force`
 - ログ: `.cache/logs/nightly-github-sync-*.log`
 
-Drive → リポの自動取り込みは未実装（Drive が対外正本、リポは作業ミラー）。
+Drive → リポ: `scripts/drive-to-repo-pull.sh` が戦略フォルダを `docs/strategy/from-drive/` に text export（夜間 sync の前段）。Drive が対外正本、リポは作業ミラー。
 
 ## 二層の見せ分け
 

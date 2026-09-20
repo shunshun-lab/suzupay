@@ -43,17 +43,6 @@ fi
 
 cd "$REPO_ROOT"
 
-# Drive → リポ（対外正本ミラー）。失敗してもローカル→GitHub は続ける
-if [ "${SUZUPAY_SKIP_DRIVE:-0}" != "1" ] && [ -x "${REPO_ROOT}/scripts/drive-to-repo-pull.sh" ]; then
-  echo "drive pull…"
-  if [ "${DRY_RUN:-0}" = "1" ]; then
-    "${REPO_ROOT}/scripts/drive-to-repo-pull.sh" --dry-run || echo "drive pull dry-run soft-fail"
-  else
-    "${REPO_ROOT}/scripts/drive-to-repo-pull.sh" || echo "drive pull soft-fail (continuing with local tree)"
-  fi
-fi
-
-
 if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
   echo "not a git repo: $REPO_ROOT"
   exit 1

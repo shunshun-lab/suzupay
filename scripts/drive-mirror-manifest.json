@@ -1,0 +1,13 @@
+{
+  "folder_id": "1btxrPWU9CJFKdH7ITv2mq0NQR_r1hLFa",
+  "out_dir": "docs/strategy/from-drive",
+  "note": "Drive = external SoT. text/plain export into from-drive/. Hand-edited mirrors stay outside.",
+  "docs": [
+    {"id": "1DnS2WxqWWwwexTDFWxp64XzC38aBjkb4MoDl0AKueG8", "file": "00-INDEX.md", "title": "INDEX 2026-09-20"},
+    {"id": "1wMPpsn5TtFGe3iaMemcS_jmuxj3WEAuEqBaxIfsqNLw", "file": "osaka-ACT.md", "title": "Osaka ACT"},
+    {"id": "1z5Q3yslX3CqpkuheERqFafpEzuDZXIHoVefLX_PzDOE", "file": "MASTER_STRATEGY.md", "title": "MASTER_STRATEGY"},
+    {"id": "1rF7YUgzm-K-WqcOW0EEaiLJg_IAWXL_ZoYwRLn5eb3o", "file": "MTG-2026-09-19.md", "title": "MTG 2026-09-19"},
+    {"id": "1ZiaMnTVJ2AZQ-GGoQ_a4G6Rev_13LvrosFhl9cU5wvc", "file": "overall-concept-draft.md", "title": "Overall concept draft"},
+    {"id": "1fuXblcbZIAp4BwYnEj3x1xy07sM805yWznGDGVYKmns", "file": "quant-OPEN.md", "title": "Quant OPEN"}
+  ]
+}
