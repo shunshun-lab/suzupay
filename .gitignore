@@ -7,3 +7,4 @@
 # local backup of pre-wrapper script
 scripts/nightly-github-sync.sh.bak
 .nightly-sync.env
+scripts/*.bak

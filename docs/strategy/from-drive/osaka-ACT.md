@@ -3,7 +3,7 @@
   id: 1wMPpsn5TtFGe3iaMemcS_jmuxj3WEAuEqBaxIfsqNLw
   name: ACT — 大阪 × SuzuPay × Portal Factory（内側）
   modified: 2026-09-20T07:34:15.649Z
-  exported: 2026-09-20 17:00:27 JST
+  exported: 2026-09-20 17:00:50 JST
   source: https://docs.google.com/document/d/1wMPpsn5TtFGe3iaMemcS_jmuxj3WEAuEqBaxIfsqNLw/edit?usp=drivesdk
   format: text/plain export (formatting may be lossy)
 -->
