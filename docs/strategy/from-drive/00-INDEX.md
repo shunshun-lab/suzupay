@@ -3,7 +3,7 @@
   id: 1DnS2WxqWWwwexTDFWxp64XzC38aBjkb4MoDl0AKueG8
   name: 00_SuzuPay Strategy INDEX（正本）2026-09-20
   modified: 2026-09-20T07:49:45.291Z
-  exported: 2026-09-20 17:13:45 JST
+  exported: 2026-09-20 17:16:09 JST
   source: https://docs.google.com/document/d/1DnS2WxqWWwwexTDFWxp64XzC38aBjkb4MoDl0AKueG8/edit?usp=drivesdk
   format: text/plain export (formatting may be lossy)
 -->
