@@ -42,3 +42,5 @@
 
 `overtourism-cases.md` と本ファイルが、会議アクション「全体構想ドキュメント」の種。
 地域経済効果・域外購買力の定量は別紙で足す。ポータルは「来訪者の行動を変え、域内決済に落とす装置」として書く。
+
+**オンライン正本（Drive）:** [全体構想ドラフト](https://docs.google.com/document/d/1ZiaMnTVJ2AZQ-GGoQ_a4G6Rev_13LvrosFhl9cU5wvc/edit) — 索引は [DRIVE.md](DRIVE.md)

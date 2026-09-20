@@ -7,10 +7,24 @@ SuzuPay は、インバウンド旅行者・地域店舗・地域運営者をつ
 ## Start here
 
 - [Master Strategy](docs/strategy/MASTER_STRATEGY.md) — 事業・プロダクト・地域展開・行政/補助金・AI・ポータル・決済・データ戦略の統合版
+- [Drive 正本索引](docs/strategy/DRIVE.md) — 対外共有は Google Drive
 - [2026-09-19 MTG](docs/meetings/2026-09-19-suzupay-mtg.md) — 最新会議メモ
 - [先進事例 vs 令和8採択](docs/strategy/overtourism-cases.md) — 観光庁案件の切り分け
 - [Portal thesis](docs/strategy/portal-thesis.md) — LocalManus × Tourism Portal × Suzupay の三層
 - [Inbound portal prototype](portal/index.html) — 来訪者向け見せ方（EN first）
+
+## GitHub 日次反映
+
+対応リポ: [shunshun-lab/suzupay](https://github.com/shunshun-lab/suzupay)
+
+Mac ローカルの変更を **毎日 03:00（JST）** に commit & push（睡眠で飛ばした場合は起床後に当日1回 catch-up）。
+
+- スクリプト: `scripts/nightly-github-sync.sh`
+- LaunchAgent: `~/Library/LaunchAgents/com.shuta.suzupay-github-sync.plist`
+- 手動: `scripts/nightly-github-sync.sh --force`
+- ログ: `.cache/logs/nightly-github-sync-*.log`
+
+Drive → リポの自動取り込みは未実装（Drive が対外正本、リポは作業ミラー）。
 
 ## 二層の見せ分け
 

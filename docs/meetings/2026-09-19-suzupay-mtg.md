@@ -1,7 +1,9 @@
 # Suzupay MTG 会議メモ
 
 **日付:** 2026-09-19  
-**参加者:** Kosuke氏、髙木俊輔氏（ほか）
+**参加者:** Kosuke氏、髙木俊輔氏（ほか）  
+**Drive（整理版）:** https://docs.google.com/document/d/1rF7YUgzm-K-WqcOW0EEaiLJg_IAWXL_ZoYwRLn5eb3o/edit  
+**戦略索引:** [docs/strategy/DRIVE.md](../strategy/DRIVE.md)
 
 ---
 
