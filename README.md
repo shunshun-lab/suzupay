@@ -12,6 +12,8 @@ SuzuPay は、インバウンド旅行者・地域店舗・地域運営者をつ
 - [先進事例 vs 令和8採択](docs/strategy/overtourism-cases.md) — 観光庁案件の切り分け
 - [Portal thesis](docs/strategy/portal-thesis.md) — LocalManus × Tourism Portal × Suzupay の三層
 - [Inbound portal prototype](portal/index.html) — 来訪者向け見せ方（EN first）
+- [大阪 ACT（内側）](docs/strategy/osaka-suzupay-portal-ACT.md) — Working Backwards · Drive ミラー
+- [Osaka showcase skeleton](portal/osaka.html) — 長官デモ1枚の静的骨格（加盟店名なし）
 
 ## GitHub 日次反映
 

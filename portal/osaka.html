@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Osaka showcase — SuzuPay × Portal Factory</title>
+  <meta name="description" content="Osaka one-page demo: map legend, one strategy, SuzuPay rail. No invented merchants." />
+  <link rel="stylesheet" href="styles.css" />
+  <style>
+    .osaka-wrap { max-width: 52rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+    .osaka-wrap h1 { font-family: Fraunces, Georgia, serif; font-size: 2rem; margin: 0.5rem 0 0.75rem; }
+    .badge { display: inline-block; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.04em;
+      text-transform: uppercase; color: #6b21a8; background: #f3e8ff; padding: 0.25rem 0.6rem; border-radius: 999px; }
+    .lede { color: #44403c; line-height: 1.55; }
+    .map-panel { margin: 1.5rem 0; border: 1px solid #e7e5e4; border-radius: 1rem; background:
+      linear-gradient(160deg, #fafaf9 0%, #f5f5f4 40%, #e7e5e4 100%); min-height: 220px;
+      display: grid; place-items: center; position: relative; overflow: hidden; }
+    .map-panel .hint { color: #78716c; font-size: 0.9rem; text-align: center; padding: 1rem; }
+    .legend { display: flex; flex-wrap: wrap; gap: 0.75rem 1.25rem; margin: 0.75rem 0 0; font-size: 0.875rem; }
+    .legend span::before { content: ""; display: inline-block; width: 0.65rem; height: 0.65rem;
+      border-radius: 50%; margin-right: 0.4rem; vertical-align: middle; }
+    .lg-scout::before { background: #ea580c; }
+    .lg-trial::before { background: #2563eb; }
+    .lg-reg::before { background: #16a34a; }
+    .strat { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
+    .chip { border: 1px solid #d6d3d1; border-radius: 999px; padding: 0.35rem 0.85rem; font-size: 0.8rem; color: #57534e; background: #fff; }
+    .chip.on { border-color: #a21caf; background: #fdf4ff; color: #86198f; font-weight: 600; }
+    .pay-band { margin: 1.75rem 0; padding: 1.25rem 1.35rem; border-radius: 1rem;
+      background: #0c0a09; color: #fafaf9; }
+    .pay-band strong { color: #f0abfc; }
+    .trust { margin: 1.5rem 0; padding: 1rem 1.15rem; border-left: 3px solid #a21caf; background: #fafaf9; font-size: 0.9rem; }
+    .links { display: flex; flex-wrap: wrap; gap: 0.75rem 1.25rem; font-size: 0.9rem; margin-top: 2rem; }
+    .links a { color: #86198f; }
+    .empty { font-size: 0.85rem; color: #78716c; margin-top: 0.5rem; }
+  </style>
+</head>
+<body>
+  <header class="site-bar">
+    <a class="brand" href="index.html">LocalManus</a>
+    <nav aria-label="Primary">
+      <a href="index.html">Visitor</a>
+      <a href="osaka.html" aria-current="page">Osaka</a>
+    </nav>
+  </header>
+
+  <main class="osaka-wrap">
+    <p class="badge">Osaka showcase · FACT only</p>
+    <h1>大阪でこう見える</h1>
+    <p class="lede">
+      公共・緑化・循環の候補を地図で共有し、確定情報だけ対外に出す。
+      発見と信頼は Portal Factory、決済は SuzuPay。
+      加盟店名は人手確認前に載せない（空が正しい）。
+    </p>
+
+    <section aria-label="Map">
+      <div class="map-panel">
+        <p class="hint">Osaka map placeholder<br />ピンは scouted のみ自動。registered は人手。</p>
+      </div>
+      <div class="legend" role="list">
+        <span class="lg-scout" role="listitem">橙 = scouted（偵察）</span>
+        <span class="lg-trial" role="listitem">青 = trial（試験）</span>
+        <span class="lg-reg" role="listitem">緑 = registered（対外確定）</span>
+      </div>
+      <p class="empty">Merchants: — （捏造しない。空欄が正しい）</p>
+    </section>
+
+    <section aria-label="Strategy">
+      <h2 style="font-size:1.1rem;margin:1.75rem 0 0.35rem;">戦略（デモはまず1本）</h2>
+      <div class="strat">
+        <span class="chip on">花き・緑化（日比谷花壇型）</span>
+        <span class="chip">剪定バイオマス</span>
+        <span class="chip">建設副産物</span>
+        <span class="chip">堆肥</span>
+        <span class="chip">公共調達循環</span>
+      </div>
+      <p class="lede" style="font-size:0.95rem;">
+        観光 × 資源循環の切り口。全国サーチ件数は裏方の能力証明であり、この面の主役ではない。
+      </p>
+    </section>
+
+    <section class="pay-band" aria-label="SuzuPay">
+      <p style="margin:0;font-size:0.8rem;opacity:0.75;">Payment rail</p>
+      <p style="margin:0.35rem 0 0;font-size:1.05rem;">
+        <strong>SuzuPay</strong> = 決済と証跡　/　Portal = 発見と信頼
+      </p>
+      <p style="margin:0.5rem 0 0;font-size:0.85rem;opacity:0.8;">
+        大阪での加盟・稼働状況は UNKNOWN/PLANNED。本番約束は書かない。
+      </p>
+    </section>
+
+    <aside class="trust">
+      <strong>信頼ルール</strong><br />
+      主張は FACT / PLANNED / PROPOSED / UNKNOWN。
+      自動反映は scouted まで。registered / pilot は人手。
+      対外冒頭に全国 ops ノイズを出さない。
+    </aside>
+
+    <nav class="links" aria-label="Canon">
+      <a href="../docs/strategy/osaka-suzupay-portal-ACT.md">内側 ACT（ミラー）</a>
+      <a href="../docs/strategy/DRIVE.md">Drive 正本索引</a>
+      <a href="index.html">来訪者プロトタイプ（福岡サンプル）</a>
+    </nav>
+  </main>
+</body>
+</html>
