@@ -3,11 +3,44 @@
   "out_dir": "docs/strategy/from-drive",
   "note": "Drive = external SoT. text/plain export into from-drive/. Hand-edited mirrors stay outside.",
   "docs": [
-    {"id": "1DnS2WxqWWwwexTDFWxp64XzC38aBjkb4MoDl0AKueG8", "file": "00-INDEX.md", "title": "INDEX 2026-09-20"},
-    {"id": "1wMPpsn5TtFGe3iaMemcS_jmuxj3WEAuEqBaxIfsqNLw", "file": "osaka-ACT.md", "title": "Osaka ACT"},
-    {"id": "1z5Q3yslX3CqpkuheERqFafpEzuDZXIHoVefLX_PzDOE", "file": "MASTER_STRATEGY.md", "title": "MASTER_STRATEGY"},
-    {"id": "1rF7YUgzm-K-WqcOW0EEaiLJg_IAWXL_ZoYwRLn5eb3o", "file": "MTG-2026-09-19.md", "title": "MTG 2026-09-19"},
-    {"id": "1ZiaMnTVJ2AZQ-GGoQ_a4G6Rev_13LvrosFhl9cU5wvc", "file": "overall-concept-draft.md", "title": "Overall concept draft"},
-    {"id": "1fuXblcbZIAp4BwYnEj3x1xy07sM805yWznGDGVYKmns", "file": "quant-OPEN.md", "title": "Quant OPEN"}
+    {
+      "id": "1DnS2WxqWWwwexTDFWxp64XzC38aBjkb4MoDl0AKueG8",
+      "file": "00-INDEX.md",
+      "title": "INDEX 2026-09-20"
+    },
+    {
+      "id": "1wMPpsn5TtFGe3iaMemcS_jmuxj3WEAuEqBaxIfsqNLw",
+      "file": "osaka-ACT.md",
+      "title": "Osaka ACT"
+    },
+    {
+      "id": "1z5Q3yslX3CqpkuheERqFafpEzuDZXIHoVefLX_PzDOE",
+      "file": "MASTER_STRATEGY.md",
+      "title": "MASTER_STRATEGY"
+    },
+    {
+      "id": "1rF7YUgzm-K-WqcOW0EEaiLJg_IAWXL_ZoYwRLn5eb3o",
+      "file": "MTG-2026-09-19.md",
+      "title": "MTG 2026-09-19"
+    },
+    {
+      "id": "1ZiaMnTVJ2AZQ-GGoQ_a4G6Rev_13LvrosFhl9cU5wvc",
+      "file": "overall-concept-draft.md",
+      "title": "Overall concept draft"
+    },
+    {
+      "id": "1fuXblcbZIAp4BwYnEj3x1xy07sM805yWznGDGVYKmns",
+      "file": "quant-OPEN.md",
+      "title": "Quant OPEN"
+    }
+  ],
+  "outreach_docs": [
+    {
+      "id": "1hxPLWlN2YVoSnRX659nVzOX4fEvktREk24pY5gQASD4",
+      "file": "outreach/osaka-tourism-bureau-pitch-DRAFT.md",
+      "title": "打診草案 — 大阪観光局向け",
+      "auto_pull": false,
+      "note": "対外草案。編集はDrive正本。リポは手同期/本ファイル"
+    }
   ]
 }
