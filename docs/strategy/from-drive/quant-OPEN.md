@@ -3,7 +3,7 @@
   id: 1fuXblcbZIAp4BwYnEj3x1xy07sM805yWznGDGVYKmns
   name: 地域経済効果・域外購買力（定量）— OPEN / Kosuke依頼 2026-09-19
   modified: 2026-09-20T07:46:23.531Z
-  exported: 2026-09-20 16:59:22 JST
+  exported: 2026-09-20 17:00:27 JST
   source: https://docs.google.com/document/d/1fuXblcbZIAp4BwYnEj3x1xy07sM805yWznGDGVYKmns/edit?usp=drivesdk
   format: text/plain export (formatting may be lossy)
 -->
