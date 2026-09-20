@@ -43,4 +43,5 @@ Drive からの text/plain 自動ミラー。手編集の `MASTER_STRATEGY.md` /
 
 ## 対外docs 必須
 
-前提整理 / プロダクト説明 / ビジョン説明 / 着地（詳細は [`outreach/README.md`](outreach/README.md)）
+前提整理 / プロダクト説明 / ビジョン説明 / 着地。詳細・チェックリストは [`outreach/README.md`](outreach/README.md)。  
+エージェント門番: skill `external-outreach-docs`（O1–O8）。内側ACTと対外1枚は分ける。
