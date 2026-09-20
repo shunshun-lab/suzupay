@@ -12,7 +12,7 @@
 | 補助金Gusto | Drive上（owner Kosuke・共有） | https://docs.google.com/document/d/1CmS4a8y4mdntuM29b0r24MiELiZMgIsgz9lcI97FFEY/edit |
 | 福岡パック | Drive上 | https://docs.google.com/document/d/10R8mzLzf_ZXxv5LTMUUCq_9-yjK70YC_Jmrb_l3kwsE/edit |
 | 大阪ACT | Drive上 + リポミラー | https://docs.google.com/document/d/1wMPpsn5TtFGe3iaMemcS_jmuxj3WEAuEqBaxIfsqNLw/edit · [`osaka-suzupay-portal-ACT.md`](osaka-suzupay-portal-ACT.md) |
-| 大阪打診草案（観光局向け） | Drive上 + リポ | https://docs.google.com/document/d/1hxPLWlN2YVoSnRX659nVzOX4fEvktREk24pY5gQASD4/edit · [`outreach/osaka-tourism-bureau-pitch-DRAFT.md`](outreach/osaka-tourism-bureau-pitch-DRAFT.md) |
+| 大阪打診草案 v2（観光ご担当向け） | Drive上 + リポ | https://docs.google.com/document/d/1lpz0a7pURIOqMO4Hdcn3BoxVnLSBSEzTN-of197e7hA/edit · [`outreach/osaka-tourism-bureau-pitch-DRAFT.md`](outreach/osaka-tourism-bureau-pitch-DRAFT.md) |
 | 全体構想 | Drive上（種） | https://docs.google.com/document/d/1ZiaMnTVJ2AZQ-GGoQ_a4G6Rev_13LvrosFhl9cU5wvc/edit |
 | MTG 9/19 | Drive上（整理版） | https://docs.google.com/document/d/1rF7YUgzm-K-WqcOW0EEaiLJg_IAWXL_ZoYwRLn5eb3o/edit |
 | MASTER_STRATEGY | Drive上 + リポ | https://docs.google.com/document/d/1z5Q3yslX3CqpkuheERqFafpEzuDZXIHoVefLX_PzDOE/edit · [`MASTER_STRATEGY.md`](MASTER_STRATEGY.md) |
@@ -40,3 +40,7 @@
 ## from-drive/
 
 Drive からの text/plain 自動ミラー。手編集の `MASTER_STRATEGY.md` / `osaka-suzupay-portal-ACT.md` 等は上書きしない。
+
+## 対外docs 必須
+
+前提整理 / プロダクト説明 / ビジョン説明（詳細は [](outreach/README.md)）
