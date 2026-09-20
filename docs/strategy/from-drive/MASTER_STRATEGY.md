@@ -3,7 +3,7 @@
   id: 1z5Q3yslX3CqpkuheERqFafpEzuDZXIHoVefLX_PzDOE
   name: SuzuPay MASTER_STRATEGY（英語・CURRENTラベル）
   modified: 2026-09-20T07:49:03.947Z
-  exported: 2026-09-20 17:10:33 JST
+  exported: 2026-09-20 17:10:56 JST
   source: https://docs.google.com/document/d/1z5Q3yslX3CqpkuheERqFafpEzuDZXIHoVefLX_PzDOE/edit?usp=drivesdk
   format: text/plain export (formatting may be lossy)
 -->
