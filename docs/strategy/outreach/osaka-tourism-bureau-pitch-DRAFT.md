@@ -1,9 +1,9 @@
 # 打診草案 — 大阪の観光ご担当向け
 # 観光の「見える化」と地域決済（Portal × SuzuPay）
 
-**Status:** DRAFT（送付前）· v3（着地 A観光局/DMO ＋ D観光庁OT事業 ＋ E SuzuPay並行）  
+**Status:** DRAFT（送付前）· v4（着地A+D+E／共感＝具体例+数字）  
 **Audience:** 大阪の観光政策・実務ご担当（SuzuPay / Portal 未認知前提）  
-**Drive正本:** https://docs.google.com/document/d/1oQ724Rb7i31bnYWTc1o5vltb_lKbqdKsE0PEqSQ6DGI/edit
+**Drive正本:** https://docs.google.com/document/d/1BHudXbgjZ62UnZRB4ER_VdEhJqFSmWrgyIvclPfn0j8/edit
 
 **Date:** 2026-09-20  
 **Source:** 内側ACT「大阪 × SuzuPay × Portal Factory」から FACT のみ  
@@ -21,11 +21,25 @@
 
 ### いま起きていること
 
-インバウンドも地域側も「候補」は多い。同時に次が起きやすい。
+<!-- レビュー: 旧稿は NG一般論（「見えない／バラバラ／信頼」だけ）。具体例＋出典付き数字に差し替え -->
 
-1. **見えない** — 公共空間・緑化・循環・受入のうち、どこが本気で動けるかが地図と表で共有されない  
-2. **決済がバラバラ** — 見える化資料と現場の支払いが別物のまま、パイロットが資料で終わる  
-3. **信頼が壊れやすい** — 未確認の店名や数字を載せた瞬間に、政策・観光の席では終わりやすい  
+共感してほしいのはスローガンではなく、**すでに数字と失敗が出ている現場**と、**国が面で金を付けている枠**がある、という事実。
+
+1. **人が動く設計は実証されている（宮島・廿日市）**  
+   デジタルマップ＋スタンプラリー＋駐車場混雑LEDで、混雑を「来るな」ではなく非混雑へ誘導。  
+   **16日間で 1,147 人参加**。写真撮影要素を使った参加者は、使わなかった参加者より滞在時間・スタンプ取得が約 **3倍**（観光庁事例集／`overtourism-cases.md`）。  
+   → 「見える化だけでは動かない。誘導の設計が要る」は一般論ではなく、この実績から言える。
+
+2. **看板・誘導員だけでは足りない失敗も公開されている（鎌倉）**  
+   鎌倉高校前踏切のスポット外撮影者を **30%減**が目標 → 実際は **12.6%増**（同事例集）。  
+   → 情報を出すだけでは逆効果もありうる。地図・推奨・参加・決済まで一本化する理由。
+
+3. **政策側は「点」から「面」の補助に移っている（FACT）**  
+   観光庁「オーバーツーリズムの未然防止・抑制をはじめとする観光地の面的受入環境整備促進事業（令和8年度当初予算）」。  
+   地域一体型は補助率 **2/3・上限 2億円**（[事業ページ](https://www.mlit.go.jp/kankocho/seisaku_seido/kihonkeikaku/jizoku_kankochi/jizokukano_taisei/overtourism/jigyo.html) / [特設](https://ot-kankoseibi.go.jp/)）。一次・二次採択は公表済 → **今の採択確約はしない**が、器としての接続は現実の議題。
+
+4. **大阪固有の混雑KPI（UNKNOWN）**  
+   大阪の通り別・時間帯別の公式混雑数字は本草案では未取得。送付前に府・市・DMO公表値を1つ入れる（担当: 要取得）。空欄のまま一般論で埋めない。
 
 ### なぜ大阪か
 
@@ -202,4 +216,4 @@ E. 決済レール（SuzuPay）は別トラックで並行整理する旨
 
 ---
 
-内側正本: [ACT — 大阪 × SuzuPay × Portal Factory](https://docs.google.com/document/d/1wMPpsn5TtFGe3iaMemcS_jmuxj3WEAuEqBaxIfsqNLw/edit)
+内側正本: [ACT — 大阪 × SuzuPay × Portal Factory](https://docs.google.com/document/d/1BHudXbgjZ62UnZRB4ER_VdEhJqFSmWrgyIvclPfn0j8/edit)
