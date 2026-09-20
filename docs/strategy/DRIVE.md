@@ -43,4 +43,4 @@ Drive からの text/plain 自動ミラー。手編集の `MASTER_STRATEGY.md` /
 
 ## 対外docs 必須
 
-前提整理 / プロダクト説明 / ビジョン説明（詳細は [](outreach/README.md)）
+前提整理 / プロダクト説明 / ビジョン説明（詳細は [`outreach/README.md`](outreach/README.md)）
