@@ -3,7 +3,7 @@
   id: 1ZiaMnTVJ2AZQ-GGoQ_a4G6Rev_13LvrosFhl9cU5wvc
   name: SuzuPay 全体構想ドラフト — LocalManus × Portal × Pay（官公庁向け種）
   modified: 2026-09-20T07:37:41.177Z
-  exported: 2026-09-20 17:33:57 JST
+  exported: 2026-09-20 17:36:30 JST
   source: https://docs.google.com/document/d/1ZiaMnTVJ2AZQ-GGoQ_a4G6Rev_13LvrosFhl9cU5wvc/edit?usp=drivesdk
   format: text/plain export (formatting may be lossy)
 -->
