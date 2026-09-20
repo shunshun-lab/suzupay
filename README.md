@@ -14,7 +14,7 @@ SuzuPay は、インバウンド旅行者・地域店舗・地域運営者をつ
 - [Inbound portal prototype](portal/index.html) — 来訪者向け見せ方（EN first）
 - [大阪 ACT（内側）](docs/strategy/osaka-suzupay-portal-ACT.md) — Working Backwards · Drive ミラー
 - [大阪打診草案（観光局向け・DRAFT）](docs/strategy/outreach/osaka-tourism-bureau-pitch-DRAFT.md)
-- [対外・打診の必須構成](docs/strategy/outreach/README.md) — 前提／プロダクト／ビジョン／着地（O1–O8）
+- [対外・打診の必須構成](docs/strategy/outreach/README.md) — 前提／プロダクト／ビジョン／着地（O1–O9）
 - [Osaka showcase skeleton](portal/osaka.html) — 長官デモ1枚の静的骨格（加盟店名なし）
 
 ## GitHub 日次反映
